@@ -1,5 +1,5 @@
 # About Me:
-Working On Python 💛 & Go 💙<br>Stopped Learning C++
+Working On Python & Go<br>Stopped Learning C++
 
 
 ## Socials:
