@@ -1,2 +1,10 @@
-# Technologies I Use:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+<pre style="font-family:DejaVu Sans Mono;">
+<span>
+  Hi! I'm Ekin, a student interested in software developing.
+  Currently living in <a href="https://en.wikipedia.org/wiki/%C4%B0zmir">📍 Izmir, Turkey</a>
+</span>
+<span>
+  ┗━━ Projects
+    ┗━━ <a href="https://python.org">🐍 Python</a>
+        ┗━━ <a href="https://github.com/sonnelib/sonne">Sonne</a>
+</span>
